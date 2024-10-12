@@ -8,6 +8,8 @@ extern brain Brain;
 // VEXcode devices
 extern controller Controller1;
 
+
+//define motors
 extern motor Motor_BaseLF;
 extern motor Motor_BaseLB;
 extern motor Motor_BaseRF;
